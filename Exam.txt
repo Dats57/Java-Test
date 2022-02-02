@@ -1,0 +1,4 @@
+123144, LG, Television M156, 800
+131244, Apple, Iphone 11 Pro Max, 1200
+242432, Samsung, A50 smartphone, 300
+123325, Tefal, OptiGril 125N, 450
